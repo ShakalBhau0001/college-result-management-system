@@ -1,1 +1,12 @@
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
 
+[client]
+showErrorDetails = true
+showSidebarNavigation = false
+
+[browser]
+serverAddress = "localhost"
+serverPort = 8501
